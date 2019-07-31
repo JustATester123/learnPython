@@ -4,7 +4,7 @@ class myClass(object):
         return("hello,"+name)
 
 mc = myClass()
-print(mc.sayHello('wangjiong'))
+print(mc.sayHello('test'))
 
 
 class A:

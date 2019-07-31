@@ -1,4 +1,4 @@
-dicts = {'username':'wangjiong','password':12345}
+dicts = {'username':'test','password':12345}
 
 print(dicts)
 
